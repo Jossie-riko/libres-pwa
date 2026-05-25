@@ -1,0 +1,23 @@
+{
+  "name": "libres PWA",
+  "short_name": "Libres",
+  "description": "Contador de partidas libres de billar",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://cdn.devuego.es/portadas/carambola.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.devuego.es/portadas/carambola.jpg",
+      "sizes": "512x512",
+      "type": "image/jpg",
+      "purpose": "maskable"
+    }
+  ]
+}
