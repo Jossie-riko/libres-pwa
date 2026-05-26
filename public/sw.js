@@ -1,4 +1,4 @@
- const CACHE_NAME = "libres-cache-v1";
+const CACHE_NAME = "libres-cache-v3";
 const urlsToCache = ["/", "/reglas", "/manifest.json"];
 
 self.addEventListener("install", (event) => {
